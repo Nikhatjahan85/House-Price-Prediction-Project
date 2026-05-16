@@ -1,4 +1,4 @@
-# House Price Prediction Project
+#🏠 House Price Prediction Project
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python)
 ![Machine Learning](https://img.shields.io/badge/Machine-Learning-green?style=for-the-badge)
@@ -16,7 +16,7 @@ A Machine Learning based real estate analytics system for predicting property pr
 
 
 
-# Project Overview
+## Project Overview
 
 The House Price Prediction Project is a Machine Learning application developed to estimate residential property prices based on different housing attributes.
 
@@ -44,7 +44,7 @@ The project also provides graphical analysis including heatmaps, feature importa
 
 
 
-# Objectives
+## Objectives
 
 • Predict house prices using Machine Learning  
 • Analyze important housing features  
@@ -55,7 +55,7 @@ The project also provides graphical analysis including heatmaps, feature importa
 
 
 
-# Key Features
+## Key Features
 
 • Synthetic Dataset Generation  
 • Data Cleaning & Preprocessing  
@@ -70,7 +70,7 @@ The project also provides graphical analysis including heatmaps, feature importa
 
 
 
-# Project Structure
+## Project Structure
 
 
 House-Price-Prediction-Project/
@@ -112,7 +112,7 @@ House-Price-Prediction-Project/
 
 
 
-# Technologies Used
+## Technologies Used
 
 | Technology | Purpose |
 |---|---|
@@ -126,7 +126,7 @@ House-Price-Prediction-Project/
 
 
 
-# Machine Learning Workflow
+## Machine Learning Workflow
 
 ```text
 Dataset Generation
@@ -146,9 +146,9 @@ Visualization & Dashboard
 
 
 
-# Installation Guide
+## Installation Guide
 
-## 1. Clone Repository
+### 1. Clone Repository
 
 
 git clone  https://github.com/Nikhatjahan85/House-Price-Prediction-Project
@@ -156,7 +156,7 @@ git clone  https://github.com/Nikhatjahan85/House-Price-Prediction-Project
 
 
 
-## 2. Open Project Folder
+### 2. Open Project Folder
 
 
 cd House-Price-Prediction-Project
@@ -164,23 +164,23 @@ cd House-Price-Prediction-Project
 
 
 
-## 3. Create Virtual Environment
+### 3. Create Virtual Environment
 
 
 python -m venv venv
 
 
 
-## 4. Activate Virtual Environment
+### 4. Activate Virtual Environment
 
-### Windows
+#### Windows
 
 
 venv\Scripts\activate
 
 
 
-## 5. Install Dependencies
+### 5. Install Dependencies
 
 
 pip install -r requirements.txt
@@ -188,9 +188,9 @@ pip install -r requirements.txt
 
 
 
-# Running The Project
+## Running The Project
 
-## Run Main Project
+### Run Main Project
 
 
 python main.py
@@ -198,14 +198,14 @@ python main.py
 
 
 
-## Run Streamlit Dashboard
+### Run Streamlit Dashboard
 
 
 streamlit run dashboard/app.py
 
 ---
 
-# Dashboard Features
+## Dashboard Features
 
 The Streamlit dashboard contains:
 
@@ -222,7 +222,7 @@ The Streamlit dashboard contains:
 
 
 
-# Generated Outputs
+## Generated Outputs
 
 | Output File | Description |
 |---|---|
@@ -237,7 +237,7 @@ The Streamlit dashboard contains:
 
 
 
-# Project Visualizations
+## Project Visualizations
 
 ## Heatmap Analysis
 
@@ -246,28 +246,28 @@ The Streamlit dashboard contains:
 
 
 
-## Feature Importance Graph
+### Feature Importance Graph
 
 ![Feature Importance](images/feature_importance.png)
 
 
 
 
-## Actual vs Predicted Graph
+### Actual vs Predicted Graph
 
 ![Actual vs Predicted](images/actual_vs_predicted.png)
 
 
 
 
-## Price Distribution
+### Price Distribution
 
 ![Price Distribution](images/price_distribution.png)
 
 
 
 
-# Example Terminal Output
+## Example Terminal Output
 
 
 ₹ 7,609,916.47
@@ -285,7 +285,7 @@ Check:
 
 
 
-# Future Enhancements
+## Future Enhancements
 
 • Deep Learning Integration  
 • Cloud Deployment  
@@ -295,12 +295,12 @@ Check:
 • Database Connectivity
 
 
-# License
+## License
 
 This project is licensed under the MIT License.
 
 
-# Author
+## Author
 
 Nikhat Jahan
 
