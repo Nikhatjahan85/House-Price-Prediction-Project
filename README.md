@@ -1,4 +1,4 @@
-🏠# House Price Prediction Project
+🏠 House Price Prediction Project
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python)
 ![Machine Learning](https://img.shields.io/badge/Machine-Learning-green?style=for-the-badge)
